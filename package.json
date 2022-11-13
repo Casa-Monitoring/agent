@@ -1,0 +1,23 @@
+{
+  "name": "agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casa-Monitoring/agent.git"
+  },
+  "keywords": [],
+  "author": "Anton Boyko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Casa-Monitoring/agent/issues"
+  },
+  "homepage": "https://github.com/Casa-Monitoring/agent#readme",
+  "dependencies": {
+    "@azure/data-tables": "^13.2.0"
+  }
+}
